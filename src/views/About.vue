@@ -16,6 +16,9 @@ export default {
     },
     methods:{
         ...mapActions(['add','reduce','asyncAdd'])
+    },
+    mounted(){
+        console.log(344234)
     }
 }
 </script>
