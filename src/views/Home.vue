@@ -8,7 +8,7 @@
 <script>
 export default {
     mounted(){
-        console.log(this.$router)
+        console.log(this.$router,12344)
     }
 }
 </script>
